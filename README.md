@@ -31,7 +31,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our (royal) code o
 
 ## Authors
 
-* **Jakob Hendrix** - *Initial work* - [byte-neophyte](https://github.com/byte-neophyte)
+* **Jakob Hendrix** - *Initial work* - [jakob-hendrix](https://github.com/jakob-hendrix)
 
 ## License
 
